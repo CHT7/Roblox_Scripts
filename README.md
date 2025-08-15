@@ -36,7 +36,7 @@ This public repository contains Roblox scripts that I wrote or modified myself. 
 ---
 
 ## 📎 Links
-- **Discord server:** 👉 _<https://bio.link/moondiscord>_
+- **Discord server:** 👉<a href="https://bio.link/moondiscord" target="_blank">https://bio.link/moondiscord</a>
 
 ---
 
